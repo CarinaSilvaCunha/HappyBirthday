@@ -25,11 +25,15 @@
         android:text="From, Carina"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
         android:layout_margin="20dp"/>
+=======
+        android:text="Hello World!" />
+>>>>>>> 25e63ab18b43b52a870d1d02ac6a01bfcb3c50d0
 
 </RelativeLayout>
